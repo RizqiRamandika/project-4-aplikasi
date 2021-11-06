@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Budi",
+      "pengarang": "Komik Naruto",
+      "terbit": "6-11-2021",
+      "kategori": "20-11-2021",
+      "id": "1"
+    },
+    {
+      "name": "Rizqi",
+      "pengarang": "Majalah",
+      "terbit": "Sekarang",
+      "kategori": "nanti",
+      "id": "2"
+    }
+  ]
+}
